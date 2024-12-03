@@ -1,5 +1,5 @@
 import { Buffer } from 'node:buffer'
-import PRNG from '../PRNG/index.js'
+import PRNG from '../../../HelpersMath/PRNG/index.js'
 
 
 type TokenObj = {
